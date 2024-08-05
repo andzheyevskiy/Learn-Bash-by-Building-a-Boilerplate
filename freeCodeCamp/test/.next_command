@@ -14,3 +14,5 @@ mv header.png client/assets/images/
 find -name header.png
 find -name footer.png
 find -name footer.jpeg
+mx images/footer.jpeg client/assets/images/
+mv images/footer.jpeg client/assets/images/
