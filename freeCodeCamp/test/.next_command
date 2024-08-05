@@ -18,3 +18,4 @@ mx images/footer.jpeg client/assets/images/
 mv images/footer.jpeg client/assets/images/
 find
 rmdir images/
+rm images/background.jpg
