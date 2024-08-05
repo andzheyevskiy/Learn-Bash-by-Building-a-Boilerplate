@@ -3,3 +3,4 @@ ls --color=auto
 ls --color=auto
 cd ../../..
 cd images/
+ls --color=auto
