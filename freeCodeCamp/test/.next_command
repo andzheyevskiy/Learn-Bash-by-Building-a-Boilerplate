@@ -71,3 +71,4 @@ find website-boilerplate/
 clear
 echo goodby terminal
 echo goodbye terminal
+exit
